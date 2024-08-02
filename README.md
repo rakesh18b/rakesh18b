@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rakesh18b
+- 👋 Hi, I’m rakesh
 - 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning BTech in computer Science 
 - 💞️ I’m looking to collaborate on stackup
